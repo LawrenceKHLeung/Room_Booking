@@ -20,8 +20,8 @@ This is a simple conference room booking system implemented in Python. The syste
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/conference-room-booking.git
-   cd conference-room-booking
+   git clone https://github.com/LawrenceKHLeung/Room_Booking.git
+   cd Room_Booking
    ```
 
 2. Install the required libraries:
@@ -111,6 +111,3 @@ This is a simple conference room booking system implemented in Python. The syste
    - Attempt to book more than 8 hours (4 sessions) for a single week.
    - Verify that the system prevents the booking.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
